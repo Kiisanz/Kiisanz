@@ -66,9 +66,11 @@ I am a recent graduate with a background in Science and Mathematics, deeply pass
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kiisanz&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 400px; height: 200px;">
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiisanz&theme=transparent&hide_border=true" alt="GitHub Streak Stats" style="width: 400px; height: 200px;">
-    </td>
+   <td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiisanz&theme=transparent&hide_border=true" 
+       alt="GitHub Streak Stats" 
+       style="width: 400px; height: 200px;">
+</td>
   </tr>
   <tr>
     <td>
