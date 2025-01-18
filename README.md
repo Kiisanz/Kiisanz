@@ -1,5 +1,5 @@
 
-<h1 align="center">🏄‍♂️ I'm Mochamad Rifki Maulana</h1>
+<h1 align="center">🏄‍♂️ I'm Rifki Maulana</h1>
 <br>
 
 
